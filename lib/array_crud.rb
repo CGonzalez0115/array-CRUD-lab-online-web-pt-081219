@@ -38,7 +38,7 @@ end
 def retrieve_element_from_index(array, index_number)
   words = ["you", "am", "car", "shoes"]
 
-  nouns[2]
+  words[2]
 
 end
 
