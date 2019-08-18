@@ -8,11 +8,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = ["wow", "I", "am", "really", "learning"]
+  add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
 
-  array << "arrays!"
+  add_element_to_end_of_array << "arrays!"
 
-  puts array.inspect
+  puts add_element_to_end_of_array.inspect
 
 end
 
