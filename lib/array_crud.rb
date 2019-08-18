@@ -9,7 +9,10 @@ end
 
 def add_element_to_end_of_array(array, element)
   big_cats = ["cheetah", "lion", "Bengal tiger", "leopard"]
+  
   big_cats.push("snow leopard")
+
+  puts big_cats.inspect
 
 end
 
