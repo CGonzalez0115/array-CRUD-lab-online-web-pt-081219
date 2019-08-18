@@ -3,12 +3,13 @@ def create_an_empty_array
 end
 
 def create_an_array
-  animals = ["cheetah", "lion", "tiger", "leopard"]
+  big_cats = ["cheetah", "lion", "Bengal tiger", "leopard"]
 
 end
 
 def add_element_to_end_of_array(array, element)
-
+ big_cats << "snow leopard"
+ 
 end
 
 def add_element_to_start_of_array(array, element)
