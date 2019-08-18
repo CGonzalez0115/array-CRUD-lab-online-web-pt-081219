@@ -8,11 +8,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  big_cats = ["cheetah", "lion", "Bengal tiger", "leopard"]
+  array = ["wow", "I", "am", "really", "learning"]
 
-  big_cats.push("snow leopard")
+  array.push("arrays!")
 
-  puts big_cats.inspect
+  puts array.inspect
 
 end
 
